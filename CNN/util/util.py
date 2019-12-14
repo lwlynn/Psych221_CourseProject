@@ -1,4 +1,4 @@
-# Reference: https://github.com/jiangsutx/SRN-Deblur/tree/2caaa851a030179073d22ee376be09ea874df026
+# Reference: https://github.com/jiangsutx/SRN-Deblur
 import sys
 import numpy as np
 import tensorflow as tf

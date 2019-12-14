@@ -1,3 +1,4 @@
+# Reference: https://github.com/jiangsutx/SRN-Deblur
 import os
 import argparse
 import tensorflow as tf
